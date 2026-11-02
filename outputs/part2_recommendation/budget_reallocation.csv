@@ -1,0 +1,6 @@
+channel,q1_spend,q2_baseline_spend,q1_new_customers,q2_new_customers,cut_inr,cut_pct_of_channel,new_budget,share_of_total_cut_pct,q2_avg_cac,ltv,ltv_cac_ratio,est_customers_lost,est_contribution_lost,est_net_gain
+Google Ads,195000,205000,324,331,0,0.0,205000,0.0,619.0,693.0,1.14,0,0,0
+Meta Ads,208000,339000,329,346,131000,38.6,208000,75.5,980.0,500.0,0.62,134,66846,64154
+Affiliate,176000,170000,246,259,42600,25.1,127400,24.5,656.0,287.0,0.42,65,18637,23963
+Influencer,143000,154000,149,158,0,0.0,154000,0.0,975.0,857.0,0.89,0,0,0
+Total paid,722000,868000,1048,1094,173600,20.0,694400,100.0,,,,199,85483,88117

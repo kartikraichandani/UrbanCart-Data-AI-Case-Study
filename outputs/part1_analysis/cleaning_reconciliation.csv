@@ -1,0 +1,4 @@
+table,raw_rows,excluded_rows,cleaned_rows
+users,5135,35,5100
+orders,5684,491,5193
+spend,24,0,24

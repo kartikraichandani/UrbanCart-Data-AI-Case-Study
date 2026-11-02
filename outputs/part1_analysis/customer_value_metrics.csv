@@ -1,0 +1,7 @@
+channel,customers,total_revenue,repeat_customers,revenue_per_customer,repeat_purchase_rate_pct,customer_denominator
+Google Ads,655,1513880,378,2311,57.7,customers with >=1 delivered order
+Meta Ads,675,1124892,302,1667,44.7,customers with >=1 delivered order
+Affiliate,505,483387,41,957,8.1,customers with >=1 delivered order
+Influencer,307,877469,224,2858,73.0,customers with >=1 delivered order
+Organic,461,877167,257,1903,55.7,customers with >=1 delivered order
+Unknown,40,85089,21,2127,52.5,customers with >=1 delivered order

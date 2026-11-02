@@ -1,0 +1,5 @@
+channel,jan_cac,jun_cac,abs_change,pct_change,slope_per_month,direction_jan_to_jun,months_with_undefined_cac
+Google Ads,592.0,611.0,19.0,3.2,5.0,increasing,0
+Meta Ads,491.0,1115.0,624.0,127.2,121.0,increasing,0
+Affiliate,709.0,682.0,-27.0,-3.9,-10.0,decreasing,0
+Influencer,981.0,1000.0,19.0,2.0,3.0,increasing,0
